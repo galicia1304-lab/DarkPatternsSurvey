@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: cfb35e0905204ca4db57d9decc57a588
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2611879412781199507
+    second: NotificationText _0
+  - first:
+      213: 5291229437918348044
+    second: NotificationText _1
+  - first:
+      213: 5255420157488582302
+    second: NotificationText _2
+  - first:
+      213: 7730620450140900462
+    second: NotificationText _3
+  - first:
+      213: 4439666834361654426
+    second: NotificationText _4
+  - first:
+      213: 147865157366398472
+    second: NotificationText _5
+  - first:
+      213: -7535534732583407385
+    second: NotificationText _6
+  - first:
+      213: 5773627847942637330
+    second: NotificationText _7
+  - first:
+      213: -2022923147477336843
+    second: NotificationText _8
+  - first:
+      213: 3735208097495441602
+    second: NotificationText _9
+  - first:
+      213: -4554986814448047049
+    second: NotificationText _10
+  - first:
+      213: 585745434783676432
+    second: NotificationText _11
+  - first:
+      213: 1579403093350234765
+    second: NotificationText _12
+  - first:
+      213: -6678714561945632017
+    second: NotificationText _13
+  - first:
+      213: -6591352197882516492
+    second: NotificationText _14
+  - first:
+      213: 6460831313626835209
+    second: NotificationText _15
+  - first:
+      213: 2333435795369269358
+    second: NotificationText _16
+  - first:
+      213: 8992809554851874730
+    second: NotificationText _17
+  - first:
+      213: -6445851416503046991
+    second: NotificationText _18
+  - first:
+      213: 5986405660330604796
+    second: NotificationText _19
+  - first:
+      213: -4712296884159444769
+    second: NotificationText _20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NotificationText _0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 514
+        width: 100
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390baf2dc724f3420800000000000000
+      internalID: 2611879412781199507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotificationText _1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 518
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c038630c3293e6940800000000000000
+      internalID: 5291229437918348044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotificationText _2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 517
+        width: 83
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ec880f9c00fe840800000000000000
+      internalID: 5255420157488582302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotificationText _3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 517
+        width: 76
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cc400475ea84b60800000000000000
+      internalID: 7730620450140900462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotificationText _4
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 517
+        width: 76
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c9537a67ddc9d30800000000000000
+      internalID: 4439666834361654426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotificationText _5
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 516
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e3b73c3925d0200800000000000000
+      internalID: 147865157366398472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotificationText _6
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 518
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e07fbfe5176c6790800000000000000
+      internalID: -7535534732583407385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotificationText _7
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 515
+        width: 116
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2178ced00fb002050800000000000000
+      internalID: 5773627847942637330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotificationText _8
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 516
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcb2b28d122de3e0800000000000000
+      internalID: -2022923147477336843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotificationText _9
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 517
+        width: 75
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0e06589ff16d330800000000000000
+      internalID: 3735208097495441602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotificationText _10
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 517
+        width: 83
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c6c3820af69c0c0800000000000000
+      internalID: -4554986814448047049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotificationText _11
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 517
+        width: 77
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01876199e5cf02800800000000000000
+      internalID: 585745434783676432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotificationText _12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 517
+        width: 42
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a3b40deba2be510800000000000000
+      internalID: 1579403093350234765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotificationText _13
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 628
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe28003cd707053a0800000000000000
+      internalID: -6678714561945632017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotificationText _14
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 519
+        width: 87
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbe8b73910d684a0800000000000000
+      internalID: -6591352197882516492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotificationText _15
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 516
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909a27a49db79a950800000000000000
+      internalID: 6460831313626835209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotificationText _16
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 517
+        width: 75
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e689a292e77026020800000000000000
+      internalID: 2333435795369269358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotificationText _17
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 517
+        width: 42
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa74fa9e4a0eccc70800000000000000
+      internalID: 8992809554851874730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotificationText _18
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 628
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc236cc94cbb86a0800000000000000
+      internalID: -6445851416503046991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotificationText _19
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 516
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8b4611b3cf31350800000000000000
+      internalID: 5986405660330604796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotificationText _20
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 518
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd80f7f53fe8a9eb0800000000000000
+      internalID: -4712296884159444769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NotificationText _0: 2611879412781199507
+      NotificationText _1: 5291229437918348044
+      NotificationText _10: -4554986814448047049
+      NotificationText _11: 585745434783676432
+      NotificationText _12: 1579403093350234765
+      NotificationText _13: -6678714561945632017
+      NotificationText _14: -6591352197882516492
+      NotificationText _15: 6460831313626835209
+      NotificationText _16: 2333435795369269358
+      NotificationText _17: 8992809554851874730
+      NotificationText _18: -6445851416503046991
+      NotificationText _19: 5986405660330604796
+      NotificationText _2: 5255420157488582302
+      NotificationText _20: -4712296884159444769
+      NotificationText _3: 7730620450140900462
+      NotificationText _4: 4439666834361654426
+      NotificationText _5: 147865157366398472
+      NotificationText _6: -7535534732583407385
+      NotificationText _7: 5773627847942637330
+      NotificationText _8: -2022923147477336843
+      NotificationText _9: 3735208097495441602
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
