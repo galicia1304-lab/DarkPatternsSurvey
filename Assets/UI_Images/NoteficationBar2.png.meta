@@ -103,13 +103,13 @@ TextureImporter:
       name: NoteficationBar2_0
       rect:
         serializedVersion: 2
-        x: 20
-        y: 506
-        width: 1879
-        height: 530
+        x: 43
+        y: 522
+        width: 1814
+        height: 492
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 73020f19df8397744993df22a0a09d5e
     internalID: 0
     vertices: []
     indices: 
