@@ -2613,7 +2613,7 @@ Transform:
   - {fileID: 1938277113}
   - {fileID: 447715453}
   m_Father: {fileID: 1267331789}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -360}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -1.8431714}
 --- !u!212 &440429257
 SpriteRenderer:
   serializedVersion: 2
@@ -9032,7 +9032,7 @@ Transform:
   m_Children:
   - {fileID: 1809378317}
   m_Father: {fileID: 1267331789}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -360}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -348.901}
 --- !u!212 &1469965008
 SpriteRenderer:
   serializedVersion: 2
@@ -11832,7 +11832,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1923135339
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11908,7 +11908,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1923881883
 RectTransform:
   m_ObjectHideFlags: 0
@@ -12405,7 +12405,7 @@ Transform:
   m_Children:
   - {fileID: 1594636089}
   m_Father: {fileID: 1267331789}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -360}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &2072631617
 SpriteRenderer:
   serializedVersion: 2
