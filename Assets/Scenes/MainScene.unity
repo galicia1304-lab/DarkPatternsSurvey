@@ -3971,6 +3971,7 @@ GameObject:
   m_Component:
   - component: {fileID: 598091195}
   - component: {fileID: 598091196}
+  - component: {fileID: 598091197}
   m_Layer: 0
   m_Name: DoNotKowMeaningBox
   m_TagString: Untagged
@@ -3987,8 +3988,8 @@ Transform:
   m_GameObject: {fileID: 598091194}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.5804844, y: -2.4312, z: 0}
-  m_LocalScale: {x: 0.27972057, y: 0.27972057, z: 0.27972057}
+  m_LocalPosition: {x: 0.030046463, y: -2.8099706, z: 0}
+  m_LocalScale: {x: 0.2797206, y: 0.2797206, z: 0.2797206}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1020640731}
@@ -4052,6 +4053,23 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!111 &598091197
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 598091194}
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Animation: {fileID: 7400000, guid: 00911985ba87b504ab160a48f4588690, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: 00911985ba87b504ab160a48f4588690, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_UpdateMode: 0
+  m_CullingType: 0
 --- !u!1 &606354686
 GameObject:
   m_ObjectHideFlags: 0
@@ -5541,6 +5559,7 @@ GameObject:
   m_Component:
   - component: {fileID: 873105301}
   - component: {fileID: 873105302}
+  - component: {fileID: 873105303}
   m_Layer: 0
   m_Name: RoughlyUnderstandBox
   m_TagString: Untagged
@@ -5557,8 +5576,8 @@ Transform:
   m_GameObject: {fileID: 873105300}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.59, y: 0.6489936, z: 0}
-  m_LocalScale: {x: 0.27972057, y: 0.27972057, z: 0.27972057}
+  m_LocalPosition: {x: 0.030046463, y: -2.8099706, z: 0}
+  m_LocalScale: {x: 0.2797206, y: 0.2797206, z: 0.2797206}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1020640731}
@@ -5622,6 +5641,23 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!111 &873105303
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 873105300}
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Animation: {fileID: 7400000, guid: 5e0cd00d70ddda741ace629fb6cfec0e, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: 5e0cd00d70ddda741ace629fb6cfec0e, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_UpdateMode: 0
+  m_CullingType: 0
 --- !u!1 &874570159
 GameObject:
   m_ObjectHideFlags: 0
@@ -6171,6 +6207,7 @@ GameObject:
   m_Component:
   - component: {fileID: 965558830}
   - component: {fileID: 965558831}
+  - component: {fileID: 965558832}
   m_Layer: 0
   m_Name: DoNotKnowBox
   m_TagString: Untagged
@@ -6187,8 +6224,8 @@ Transform:
   m_GameObject: {fileID: 965558829}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.58, y: 0.66, z: 0}
-  m_LocalScale: {x: 0.27972057, y: 0.27972057, z: 0.27972057}
+  m_LocalPosition: {x: 0.03, y: -2.81, z: 0}
+  m_LocalScale: {x: 0.2797206, y: 0.2797206, z: 0.2797206}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1020640731}
@@ -6252,6 +6289,23 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!111 &965558832
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 965558829}
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Animation: {fileID: 7400000, guid: 3e62cbd787e9d4547822d80127d628d7, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: 3e62cbd787e9d4547822d80127d628d7, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_UpdateMode: 0
+  m_CullingType: 0
 --- !u!1 &967725656
 GameObject:
   m_ObjectHideFlags: 0
@@ -6531,8 +6585,8 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2138224075}
-  - {fileID: 1105753729}
   - {fileID: 954408410}
+  - {fileID: 1105753729}
   m_Father: {fileID: 1923881883}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -9631,6 +9685,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1580854111}
   - component: {fileID: 1580854112}
+  - component: {fileID: 1580854113}
   m_Layer: 0
   m_Name: KnowTermBox
   m_TagString: Untagged
@@ -9647,8 +9702,8 @@ Transform:
   m_GameObject: {fileID: 1580854110}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.6012244, y: -2.4312, z: 0}
-  m_LocalScale: {x: 0.27972057, y: 0.27972057, z: 0.27972057}
+  m_LocalPosition: {x: 0.030046463, y: -2.8099706, z: 0}
+  m_LocalScale: {x: 0.2797206, y: 0.2797206, z: 0.2797206}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1020640731}
@@ -9712,6 +9767,23 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!111 &1580854113
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1580854110}
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Animation: {fileID: 7400000, guid: 2e385e7e2ba7bbd429bf827568fca812, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: 2e385e7e2ba7bbd429bf827568fca812, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_UpdateMode: 0
+  m_CullingType: 0
 --- !u!1 &1591520784
 GameObject:
   m_ObjectHideFlags: 0
@@ -11832,7 +11904,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1923135339
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11908,7 +11980,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1923881883
 RectTransform:
   m_ObjectHideFlags: 0
