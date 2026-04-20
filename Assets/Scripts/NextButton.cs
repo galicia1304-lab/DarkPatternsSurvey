@@ -3,6 +3,7 @@ using UnityEngine;
 public class NextButton : MonoBehaviour
 {
     private Animation anim;
+    private bool canAnim = true;
 
     private void Start()
     {
@@ -11,6 +12,10 @@ public class NextButton : MonoBehaviour
 
     public void PlayAnimation()
     {
-        anim.Play();
+        if (canAnim)
+        {
+            canAnim = false;
+            anim.Play();
+        }
     }
 }

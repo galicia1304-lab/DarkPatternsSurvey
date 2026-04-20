@@ -6,6 +6,7 @@ using System.Collections;
 public class RadioButtons : MonoBehaviour
 {
     public GameObject[] buttons;
+    public string selectedInfo = "";
     private GameObject selectedButton;
     private Color selectedColor;
     private Color deselectedColor = Color.white;
@@ -26,6 +27,7 @@ public class RadioButtons : MonoBehaviour
             if (button == EventSystem.current.currentSelectedGameObject)
             {
                 selectedButton = button;
+                selectedInfo = button.name;
             }
             else
             {
