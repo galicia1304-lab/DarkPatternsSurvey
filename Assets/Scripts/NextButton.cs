@@ -6,6 +6,7 @@ public class NextButton : MonoBehaviour
     public RadioButtons radioAnswer;
     public TMP_InputField inputAnswer;
     public DragnDrop dragAnswer;
+    public TextMeshProUGUI simpleButtonAnswer;
     public string customAnswer;
     
     private Animation anim;
@@ -49,6 +50,11 @@ public class NextButton : MonoBehaviour
         if (dragAnswer)
         {
             answer += dragAnswer.questionAnswer + " ";
+        }
+        if (simpleButtonAnswer)
+        {
+            answer += ". " + transform.parent.GetComponent<GetQuestionRadio>().question + ": ";
+            answer += simpleButtonAnswer.text + " ";
         }
         if (customAnswer != "")
         {
